@@ -1,0 +1,74 @@
+.head{
+    background-color: rgb(247, 243, 243);
+    height: 75px;
+}
+body{
+    background-image: url('../img/Vastu-tips-for-office.png');
+    height: 950px;
+
+}
+#img{
+    background-image: url('../img/naveen-hero-homepage.webp');
+    background-size: cover;
+    height: 600px;
+    margin-top: -130px;
+    
+}
+
+
+
+.mycard:hover {
+    
+    border: 1px solid red;
+    background-color: rgb(201, 165, 165);
+}
+.m{
+    margin-left: 28px;
+    margin-top: -23px;
+    font-size:15px;
+    color: rgb(156, 150, 150);
+}
+.n
+{
+    margin-left: 4px;
+    margin-top: 8px;
+
+}
+.card{
+    height: 350px;
+    margin-top: 50px;
+    border-radius:15px ;
+    width: 400px;
+   
+
+}
+.c{
+    background-color: rgb(236, 236, 241);
+    color: rgb(60, 60, 128);
+    font-size:small;
+}
+.n1:hover{
+background-color: seagreen;
+color: white;
+}
+.n2{
+    color: seagreen;
+}
+.n2:hover{
+background-color: seagreen;
+color: white;
+}
+#r{
+    height: 700px;  
+    background-size: cover;
+    
+}
+#b{
+   background-color: rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+    
+   
+}
+.x:hover{
+    border: 1px solid red;
+}
